@@ -13,12 +13,17 @@
       --secondary: #457b9d;
       --card-bg: #222324;
     }
-    body {
+    html, body {
+      height: 100%;
       margin: 0;
+      padding: 0;
+    }
+    body {
       font-family: 'Montserrat', Arial, sans-serif;
       background: var(--main-bg);
       color: var(--text);
       line-height: 1.6;
+      min-height: 100vh;
     }
     header {
       text-align: center;
@@ -118,24 +123,29 @@
       color: #aaa;
       font-size: 0.95rem;
     }
+    /* Responsive image styles */
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+      background-color: #e63946;
+      border-radius: 8px;
+    }
+    @media (max-width: 900px) {
+      section {
+        max-width: 98vw;
+        padding: 1.2rem;
+      }
+    }
     @media (max-width: 600px) {
       header h1 { font-size: 2rem; }
-      section { padding: 1rem; }
+      header { padding: 2rem 0.5rem 1rem 0.5rem; }
+      section { padding: 0.7rem; }
       .music { flex-direction: column; }
+      h2 { font-size: 1.3rem; }
+      nav { gap: 1rem; padding: 0.7rem 0; }
     }
-    img {
-      background-color: #e63946;
-    }
-
-    img.fullscreen {
-      width: 100vw;
-      height: 100vh;
-      object-fit: contain; /* No cropping, may leave empty space */
-      /*background: #000;     Optional: fill empty space with color */
-      display: block;
-}
-
-    
   </style>
 </head>
 <body>
@@ -162,7 +172,7 @@
     </ul>
   </section>
 
-    <section id="bio">
+  <section id="bio">
     <h2>About the Band</h2>
     <p>
       8th Hour plays music by Queen, Wilco, Seals & Crofts, The Marshall Tucker Band, 
@@ -174,7 +184,7 @@
     </p>
   </section>
 
-    <section id="statement">
+  <section id="statement">
     <h2>Band Statement</h2>
     <p>
       "8th Hour is what happens when three teachers, a pastor, and an IT guy walk into a jam session and leave later than they should. 
@@ -184,7 +194,7 @@
       we just love a good song and a better vibe. Come hang out and sing along."
     </p>
     <p>
-      <img src="./8thhour.png" class="fullscreen" alt="Eigth hour logo. A guitar with four vector traces of instruments below it.">
+      <img src="./8thhour.png" alt="Eigth hour logo. A guitar with four vector traces of instruments below it.">
     </p>
   </section>
 
