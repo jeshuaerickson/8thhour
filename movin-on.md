@@ -12,13 +12,13 @@ No matter how you see it, it’s just another flowing day.
 
 .
 
-Am Dm E7 Am
-
 Am C/G E7 Am
+
+Am C/G F C
 
 I’m movin’ on, movin’ on, movin’ on, movin’ on.  
 
-Movin’ on, movin’ on, movin’ on, movin on.  
+Cuz I'm Movin’ on, movin’ on, movin’ on, movin on.  
 
 .
 
