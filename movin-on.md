@@ -1,6 +1,6 @@
-Am Dm G7 Am
+**Am Dm G7 Am** (Line 1 and 3)
 
-Am Dm E7 Am
+**Am Dm E7 Am** (Line 2 and 4)
 
 Well I’m headed to Seattle and there is no way to tell. 
 
@@ -12,11 +12,11 @@ No matter how you see it, it’s just another flowing day.
 
 .
 
-Am C/G E7 Am
+**Am C/G E7 Am** (Line 1)
 
-Am C/G F C
+**Am C/G F C** (Line 2)
 
-I’m movin’ on, movin’ on, movin’ on, movin’ on.  
+Cuz I’m movin’ on, movin’ on, movin’ on, movin’ on.  
 
 Cuz I'm Movin’ on, movin’ on, movin’ on, movin on.  
 
