@@ -1,4 +1,5 @@
 Am Dm G7 Am
+
 Am Dm E7 Am
 
 Well I’m headed to Seattle and there is no way to tell. Whether this is catastrophic or I’m on my way to hell. Whatever happens is what happens, no matter what they say. No matter how you see it, it’s just another flowing day.
