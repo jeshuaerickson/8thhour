@@ -12,9 +12,9 @@ No matter how you see it, it’s just another flowing day.
 
 .
 
-**Am C/G E7 Am** (Line 1)
+**C/G G F C** (Line 1)
 
-**Am C/G F C** (Line 2)
+**C/G G F C** (Line 2)
 
 Cuz I’m movin’ on, movin’ on, movin’ on, movin’ on.  
 
